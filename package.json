@@ -1,0 +1,23 @@
+{
+  "name": "waterinpdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicedev94/waterInPdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicedev94/waterInPdf/issues"
+  },
+  "homepage": "https://github.com/alicedev94/waterInPdf#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
